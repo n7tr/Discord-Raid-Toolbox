@@ -1,0 +1,4 @@
+Improved bugs.
+Added massping (doesn't work, but i'll fix it)
+
+Made by lososik, snatched by ns
