@@ -1,11 +1,3 @@
-# ▄▀▀▀▀▄    ▄▀▀▀▀▄   ▄▀▀▄    ▄▀▀▄  ▄▀▀▄▀▀▀▄ 
-#█         █        █   █    ▐  █ █   █   █ 
-#█    ▀▄▄  █    ▀▄▄ ▐  █        █ ▐  █▀▀▀▀  
-#█     █ █ █     █ █  █   ▄    █     █      
-#▐▀▄▄▄▄▀ ▐ ▐▀▄▄▄▄▀ ▐   ▀▄▀ ▀▄ ▄▀   ▄▀       
-#▐         ▐                 ▀    █         
-#                                 ▐
-#            snatched by ns, made by lososik
 import os
 from os import system
 
@@ -181,7 +173,7 @@ def spammer():
     print(f'            {Fore.WHITE}▐                  ▐                  {Fore.RESET}')
     print('')
     print('')
-    print(f" {Fore.LIGHTMAGENTA_EX}                        Snatched by ns, Made by Lososik{Fore.RESET}")
+    print(f" {Fore.LIGHTMAGENTA_EX}                        Made by Lososik{Fore.RESET}")
     print('')
     print(
         f'{Fore.LIGHTMAGENTA_EX} {Fore.RESET}     Raiding      {Fore.LIGHTMAGENTA_EX} {Fore.RESET}      TokenManager     {Fore.LIGHTMAGENTA_EX} {Fore.RESET}       Others {Fore.LIGHTMAGENTA_EX}         {Fore.RESET}            ')
